@@ -14,7 +14,7 @@
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»  
 
 ### Решение 1
-![zabbix]()  
+![zabbix_template](https://github.com/AI-Savin/Netology_hw8.03/blob/main/img/zabbix_HW_template.png)    
   
 ---
 
@@ -47,8 +47,7 @@
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения  
 
  ### Решение 3
-
-
+![zabbix_template_hosts](https://github.com/AI-Savin/Netology_hw8.03/blob/main/img/zabbix_HW_template_hosts.png)  
 
  ---
  
@@ -65,4 +64,4 @@
 
  ### Решение 4
 
-
+![zabbix_dashboard](https://github.com/AI-Savin/Netology_hw8.03/blob/main/img/zabbix_HW_dashboard.png)
